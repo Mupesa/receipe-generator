@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": [
+        "com/recipegenerator/lib/json-20250107.jar"
+    ]
+}
