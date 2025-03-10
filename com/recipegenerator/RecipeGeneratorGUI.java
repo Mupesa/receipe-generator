@@ -19,9 +19,10 @@ public class RecipeGeneratorGUI extends JFrame {
     private JButton searchButton;
     private JPanel recipePanel;
     private JProgressBar progressBar;
-    private static final String API_KEY = "bb44be3321c6481a97ddabf6c95b7401 "; //Spoonacular API key
+    private static final String API_KEY = " "; //Spoonacular API key
     private static final String API_URL = "https://api.spoonacular.com/recipes/findByIngredients";
     private static final String RECIPE_INFO_URL = "https://api.spoonacular.com/recipes/%d/information";
+    //bb44be3321c6481a97ddabf6c95b7401
 
     public RecipeGeneratorGUI() {
         // Set up the JFrame
